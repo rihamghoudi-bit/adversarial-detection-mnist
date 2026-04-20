@@ -34,7 +34,17 @@ We apply the **FGSM (Fast Gradient Sign Method)** to generate adversarial exampl
 
 ---
 
-##  Demo
+## Demo
+
+### Original Image
+![Clean](images/clean.png)
+
+### Adversarial Image
+![Attack](images/attack.png)
+
+### Restored Image
+![Restored](images/restored.png)
+
 
 ###  Original Image
 (Add screenshot here)
